@@ -859,6 +859,8 @@ function updatePatientData($pid, $new, $create=false)
     $sqlsmaic = "";
     $sqlsmafname = "";
     $sqlsmalname = "";
+    $smaname = "";
+    $smacomp = "";
     //
 
   if ($create) {
@@ -878,7 +880,9 @@ function updatePatientData($pid, $new, $create=false)
         //
     }
        //zys
-      $sqlsma = "INSERT INTO sma.sma_companies VALUES (null ,3,'customer',1,'General','".$sqlsmaic. "- ". $sqlsmafname. " ". $sqlsmalname.   "','".$sqlsmaic. "- ". $sqlsmafname. " ". $sqlsmalname.   "','',' ',' ','','','','0','customer@localhost.com','','','','','','',NULL,0,'logo.png',0)";
+      $smaname = substr( $sqlsmaic. "- ". $sqlsmafname. " ". $sqlsmalname, 0, 54);
+      $smacomp = substr ( $sqlsmaic. "- ". $sqlsmafname. " ". $sqlsmalname, 0, 250);
+      $sqlsma = "INSERT INTO sma.sma_companies VALUES (null ,3,'customer',1,'General','".$smaname.   "','".$smacomp.   "','',' ',' ','','','','0','customer@localhost.com','','','','','','',NULL,0,'logo.png',0)";
       sqlInsert($sqlsma);
       //zys-end
     $db_id = sqlInsert($sql);
