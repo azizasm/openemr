@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20a46b26-96c7-49b6-bc15-1c1c9f038d5a" name="Default" comment="" />
+    <ignored path="openemr.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="openemr" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="patient_line.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/main/calendar/modules/PostCalendar/pntemplates/default/user/patient_line.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demographics.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/patient_file/summary/demographics.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.807693">
+              <caret line="1524" column="32" selection-start-line="1524" selection-start-column="32" selection-end-line="1524" selection-end-column="32" />
+              <folding>
+                <element signature="e#6#815#0#PHP" expanded="true" />
+                <marker date="1454982433397" expanded="true" signature="2466:2778" placeholder="select docum... documents" />
+                <marker date="1454982433397" expanded="true" signature="3182:3458" placeholder="SELECT d.id,... documents" />
+                <marker date="1454982433397" expanded="true" signature="5202:5288" placeholder="SELECT count... " />
+                <marker date="1454982433397" expanded="true" signature="7843:7943" placeholder="SELECT id, t... lists" />
+                <marker date="1454982433397" expanded="true" signature="9799:9894" placeholder="select soap_... patient_data" />
+                <marker date="1454982433397" expanded="true" signature="13061:13172" placeholder="SELECT optio... list_options" />
+                <marker date="1454982433397" expanded="true" signature="15396:15639" placeholder="SELECT fe.en... form_encounter" />
+                <marker date="1454982433397" expanded="true" signature="17405:17422" placeholder="..." />
+                <marker date="1454982433397" expanded="true" signature="17699:17716" placeholder="..." />
+                <marker date="1454982433397" expanded="true" signature="17916:17933" placeholder="..." />
+                <marker date="1454982433397" expanded="true" signature="18397:18454" placeholder="SELECT allow... patient_data" />
+                <marker date="1454982433397" expanded="true" signature="18557:18610" placeholder="SELECT pid F... patient_access_onsite" />
+                <marker date="1454982433397" expanded="true" signature="18650:18667" placeholder="..." />
+                <marker date="1454982433397" expanded="true" signature="19293:19350" placeholder="SELECT allow... patient_data" />
+                <marker date="1454982433397" expanded="true" signature="19453:19507" placeholder="SELECT pid F... patient_access_offsite" />
+                <marker date="1454982433397" expanded="true" signature="19547:19564" placeholder="..." />
+                <marker date="1454982433397" expanded="true" signature="20198:20215" placeholder="..." />
+                <marker date="1454982433397" expanded="true" signature="20539:20582" placeholder="..." />
+                <marker date="1454982433397" expanded="true" signature="22112:22453" placeholder="SELECT msh.*... modules_hooks_settings" />
+                <marker date="1454982433397" expanded="true" signature="27230:27322" placeholder="SELECT * FRO... insurance_data" />
+                <marker date="1454982433397" expanded="true" signature="28245:28341" placeholder="SELECT * FRO... insurance_data" />
+                <marker date="1454982433397" expanded="true" signature="29416:29512" placeholder="SELECT * FRO... insurance_data" />
+                <marker date="1454982433397" expanded="true" signature="39002:39069" placeholder="SELECT * FRO... amendments" />
+                <marker date="1454982433397" expanded="true" signature="41323:41360" placeholder="SELECT * FRO... form_vitals" />
+                <marker date="1454982433397" expanded="true" signature="42061:42179" placeholder="SELECT optio... list_options" />
+                <marker date="1454982433397" expanded="true" signature="42710:42775" placeholder="SELECT * FRO... forms" />
+                <marker date="1454982433397" expanded="true" signature="45055:45111" placeholder="SELECT id FR... categories" />
+                <marker date="1454982433397" expanded="true" signature="45234:45280" placeholder="SELECT id, n... categories" />
+                <marker date="1454982433397" expanded="true" signature="48780:48853" placeholder="UPDATE patie... " />
+                <marker date="1454982433397" expanded="true" signature="49004:49059" placeholder="UPDATE lists... " />
+                <marker date="1454982433397" expanded="true" signature="49493:49510" placeholder="..." />
+                <marker date="1454982433397" expanded="true" signature="49550:49622" placeholder="SELECT * FRO... list_options" />
+                <marker date="1454982433397" expanded="true" signature="52166:52182" placeholder="..." />
+                <marker date="1454982433397" expanded="true" signature="57794:57892" placeholder="SELECT count... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_edit_event.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/interface/main/calendar/add_edit_event.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.13709678">
+              <caret line="93" column="37" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
+              <folding>
+                <marker date="1419605398000" expanded="true" signature="3258:3321" placeholder="SELECT MAX(p... " />
+                <marker date="1419605398000" expanded="true" signature="4860:4920" placeholder="UPDATE patie... " />
+                <marker date="1419605398000" expanded="true" signature="5802:6072" placeholder="SELECT pc_fa... openemr_postcalendar_events" />
+                <marker date="1419605398000" expanded="true" signature="6220:6281" placeholder="SELECT facil... users" />
+                <marker date="1419605398000" expanded="true" signature="6545:6621" placeholder="UPDATE opene... " />
+                <marker date="1419605398000" expanded="true" signature="6701:6772" placeholder="UPDATE opene... " />
+                <marker date="1419605398000" expanded="true" signature="11076:11144" placeholder="SELECT pc_mu... openemr_postcalendar_events" />
+                <marker date="1419605398000" expanded="true" signature="11470:11536" placeholder="SELECT pc_ai... openemr_postcalendar_events" />
+                <marker date="1419605398000" expanded="true" signature="12218:12335" placeholder="SELECT pc_re... openemr_postcalendar_events" />
+                <marker date="1419605398000" expanded="true" signature="12834:12984" placeholder="UPDATE opene... " />
+                <marker date="1419605398000" expanded="true" signature="13210:13273" placeholder="SELECT MAX(p... " />
+                <marker date="1419605398000" expanded="true" signature="14894:15041" placeholder="UPDATE opene... " />
+                <marker date="1419605398000" expanded="true" signature="15256:15319" placeholder="SELECT MAX(p... " />
+                <marker date="1419605398000" expanded="true" signature="16901:16973" placeholder="DELETE FROM " />
+                <marker date="1419605398000" expanded="true" signature="18734:20590" placeholder="UPDATE opene... " />
+                <marker date="1419605398000" expanded="true" signature="21151:21221" placeholder="SELECT pc_re... openemr_postcalendar_events" />
+                <marker date="1419605398000" expanded="true" signature="21671:21795" placeholder="UPDATE opene... " />
+                <marker date="1419605398000" expanded="true" signature="22776:22897" placeholder="UPDATE opene... " />
+                <marker date="1419605398000" expanded="true" signature="23959:25736" placeholder="UPDATE opene... " />
+                <marker date="1419605398000" expanded="true" signature="26703:26771" placeholder="SELECT pc_mu... openemr_postcalendar_events" />
+                <marker date="1419605398000" expanded="true" signature="26939:27005" placeholder="SELECT pc_ai... openemr_postcalendar_events" />
+                <marker date="1419605398000" expanded="true" signature="27691:27808" placeholder="SELECT pc_re... openemr_postcalendar_events" />
+                <marker date="1419605398000" expanded="true" signature="28307:28429" placeholder="UPDATE opene... " />
+                <marker date="1419605398000" expanded="true" signature="28907:29026" placeholder="UPDATE opene... " />
+                <marker date="1419605398000" expanded="true" signature="29209:29255" placeholder="DELETE FROM " />
+                <marker date="1419605398000" expanded="true" signature="29673:29743" placeholder="SELECT pc_re... openemr_postcalendar_events" />
+                <marker date="1419605398000" expanded="true" signature="30121:30245" placeholder="UPDATE opene... " />
+                <marker date="1419605398000" expanded="true" signature="30558:30679" placeholder="UPDATE opene... " />
+                <marker date="1419605398000" expanded="true" signature="30836:30892" placeholder="DELETE FROM " />
+                <marker date="1419605398000" expanded="true" signature="34590:34697" placeholder="SELECT f.id facility" />
+                <marker date="1419605398000" expanded="true" signature="34855:35019" placeholder="SELECT u.fac... users" />
+                <marker date="1419605398000" expanded="true" signature="35762:35872" placeholder="SELECT id, u... users" />
+                <marker date="1419605398000" expanded="true" signature="45573:45807" placeholder="..." />
+                <marker date="1419605398000" expanded="true" signature="50772:50829" placeholder="SELECT id, n... facility" />
+                <marker date="1419605398000" expanded="true" signature="53270:53351" placeholder="SELECT pc_ai... openemr_postcalendar_events" />
+                <marker date="1419605398000" expanded="true" signature="53548:53624" placeholder="SELECT pc_ai... openemr_postcalendar_events" />
+                <marker date="1419605398000" expanded="true" signature="53796:53806" placeholder="..." />
+                <marker date="1419605398000" expanded="true" signature="54472:54535" placeholder="SELECT pc_ai... openemr_postcalendar_events" />
+                <marker date="1419605398000" expanded="true" signature="56440:56477" placeholder="select id fr... users" />
+                <marker date="1419605398000" expanded="true" signature="56739:56749" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_search_popup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/new/new_search_popup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="216" column="38" selection-start-line="216" selection-start-column="38" selection-end-line="216" selection-end-column="38" />
+              <folding>
+                <marker date="1419605396000" expanded="true" signature="5610:5883" placeholder="SELECT field... layout_options" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="import_mi2xml.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contrib/util/import_mi2xml.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="143" column="14" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
+              <folding>
+                <marker date="1419605392000" expanded="true" signature="2321:2377" placeholder="SELECT pid F... patient_data" />
+                <marker date="1419605392000" expanded="true" signature="3198:3277" placeholder="SELECT id, n... facility" />
+                <marker date="1419605392000" expanded="true" signature="3643:3685" placeholder="SELECT max(p... patient_data" />
+                <marker date="1419605392000" expanded="true" signature="11596:11628" placeholder="SELECT id FR... lists" />
+                <marker date="1419605392000" expanded="true" signature="12170:12673" placeholder="INSERT INTO lists... " />
+                <marker date="1419605392000" expanded="true" signature="12941:13411" placeholder="update lists... " />
+                <marker date="1419605392000" expanded="true" signature="13881:13946" placeholder="SELECT pid F... aperio_medical_history" />
+                <marker date="1419605392000" expanded="true" signature="13977:14436" placeholder="INSERT INTO aperio_medical_history... " />
+                <marker date="1419605392000" expanded="true" signature="14569:15060" placeholder="UPDATE aperi... " />
+                <marker date="1419605392000" expanded="true" signature="15526:15859" placeholder="INSERT INTO form_encounter... " />
+                <marker date="1419605392000" expanded="true" signature="17422:18531" placeholder="INSERT INTO form_aperio_ros... " />
+                <marker date="1419605392000" expanded="true" signature="19435:20495" placeholder="INSERT INTO form_aperio_pe... " />
+                <marker date="1419605392000" expanded="true" signature="21032:21389" placeholder="INSERT INTO form_aperio_ap... " />
+                <marker date="1419605392000" expanded="true" signature="21883:22145" placeholder="INSERT INTO form_aperio_opd... " />
+                <marker date="1419605392000" expanded="true" signature="23104:24756" placeholder="INSERT INTO form_vitals... " />
+                <marker date="1419605392000" expanded="true" signature="26600:26664" placeholder="SELECT fee F... codes" />
+                <marker date="1419605392000" expanded="true" signature="26898:27672" placeholder="INSERT INTO billing... " />
+                <marker date="1419605392000" expanded="true" signature="27787:27843" placeholder="SELECT pid F... patient_data" />
+                <marker date="1419605392000" expanded="true" signature="28468:28555" placeholder="SELECT id, u... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="patient.inc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/patient.inc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="878" column="5" selection-start-line="878" selection-start-column="5" selection-end-line="878" selection-end-column="5" />
+              <folding>
+                <marker date="1454940610176" expanded="true" signature="2084:2156" placeholder="select ${$gi... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="2279:2340" placeholder="select disti... " />
+                <marker date="1454940610176" expanded="true" signature="2657:2704" placeholder="select name insurance_companies" />
+                <marker date="1454940610176" expanded="true" signature="2876:2934" placeholder="select name,... insurance_companies" />
+                <marker date="1454940610176" expanded="true" signature="4031:4129" placeholder="select fname... users" />
+                <marker date="1454940610176" expanded="true" signature="4851:4886" placeholder="SELECT * FRO... facility" />
+                <marker date="1454940610176" expanded="true" signature="4971:5065" placeholder="SELECT * FRO... facility" />
+                <marker date="1454940610176" expanded="true" signature="5095:5210" placeholder="SELECT facil... users" />
+                <marker date="1454940610176" expanded="true" signature="6820:6854" placeholder="SELECT * FRO... facility" />
+                <marker date="1454940610176" expanded="true" signature="7370:7432" placeholder="SELECT * FRO... facility" />
+                <marker date="1454940610176" expanded="true" signature="10328:10367" placeholder="select id fr... users" />
+                <marker date="1454940610176" expanded="true" signature="10605:10672" placeholder="select disti... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="11035:11137" placeholder="select ${$gi... history_data" />
+                <marker date="1454940610176" expanded="true" signature="11246:11334" placeholder="select ${$gi... history_data" />
+                <marker date="1454940610176" expanded="true" signature="11434:11522" placeholder="select ${$gi... history_data" />
+                <marker date="1454940610176" expanded="true" signature="11591:11663" placeholder="select ${$gi... history_data" />
+                <marker date="1454940610176" expanded="true" signature="11973:12147" placeholder="select ${$gi... insurance_data" />
+                <marker date="1454940610176" expanded="true" signature="12652:12866" placeholder="select ${$gi... insurance_data" />
+                <marker date="1454940610176" expanded="true" signature="12982:13055" placeholder="select ${$gi... employer_data" />
+                <marker date="1454940610176" expanded="true" signature="13421:13470" placeholder="SELECT count... " />
+                <marker date="1454940610176" expanded="true" signature="15450:15504" placeholder="SELECT ${$gi... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="16732:16786" placeholder="SELECT ${$gi... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="17329:17425" placeholder="SELECT field... layout_options" />
+                <marker date="1454940610176" expanded="true" signature="17743:17797" placeholder="SELECT ${$gi... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="19435:19489" placeholder="SELECT ${$gi... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="20779:20846" placeholder="select ${$gi... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="22260:22314" placeholder="SELECT ${$gi... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="22906:22960" placeholder="SELECT ${$gi... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="23659:23713" placeholder="SELECT ${$gi... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="24141:24182" placeholder="select ${$gi... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="26143:26209" placeholder="select id, f... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="26619:26735" placeholder="SELECT optio... list_options" />
+                <marker date="1454940610176" expanded="true" signature="28652:28719" placeholder="select pid f... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="31193:31248" placeholder="INSERT INTO patient_data... " />
+                <marker date="1454940610176" expanded="true" signature="31667:31939" placeholder="INSERT INTO sma.sma_companies... " />
+                <marker date="1454940610176" expanded="true" signature="32073:32121" placeholder="SELECT pid F... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="32375:32411" placeholder="UPDATE patie... " />
+                <marker date="1454940610176" expanded="true" signature="32602:32648" placeholder="SELECT * FRO... patient_data" />
+                <marker date="1454940610176" expanded="true" signature="33132:33358" placeholder="insert into employer_data... " />
+                <marker date="1454940610176" expanded="true" signature="33771:33801" placeholder="INSERT INTO employer_data... " />
+                <marker date="1454940610176" expanded="true" signature="34253:34283" placeholder="INSERT INTO employer_data... " />
+                <marker date="1454940610176" expanded="true" signature="35526:35620" placeholder="SELECT * FRO... insurance_data" />
+                <marker date="1454940610176" expanded="true" signature="36262:36439" placeholder="SELECT count... " />
+                <marker date="1454940610176" expanded="true" signature="36737:36864" placeholder="DELETE FROM " />
+                <marker date="1454940610176" expanded="true" signature="38480:39833" placeholder="INSERT INTO insurance_data... " />
+                <marker date="1454940610176" expanded="true" signature="40115:40140" placeholder="UPDATE insur... " />
+                <marker date="1454940610176" expanded="true" signature="40379:40429" placeholder="insert into history_data... " />
+                <marker date="1454940610176" expanded="true" signature="40959:41003" placeholder="insert into history_data... " />
+                <marker date="1454940610176" expanded="true" signature="41597:41717" placeholder="SELECT forei... integration_mapping" />
+                <marker date="1454940610176" expanded="true" signature="42424:42509" placeholder="SELECT zone_... geo_zone_reference" />
+                <marker date="1454940610176" expanded="true" signature="42809:42920" placeholder="SELECT count... geo_country_reference" />
+                <marker date="1454940610176" expanded="true" signature="51562:51621" placeholder="SELECT * FRO... geo_country_reference" />
+                <marker date="1454940610176" expanded="true" signature="56498:56590" placeholder="SELECT count... geo_country_reference" />
+                <marker date="1454940610176" expanded="true" signature="56622:56714" placeholder="SELECT count... geo_country_reference" />
+                <marker date="1454940610176" expanded="true" signature="57461:57579" placeholder="SELECT * FRO... insurance_data" />
+                <marker date="1454940610176" expanded="true" signature="58779:58920" placeholder="SELECT SUM(f... billing" />
+                <marker date="1454940610176" expanded="true" signature="59398:59515" placeholder="SELECT SUM(f... billing" />
+                <marker date="1454940610176" expanded="true" signature="59770:59858" placeholder="SELECT SUM(f... drug_sales" />
+                <marker date="1454940610176" expanded="true" signature="60281:60514" placeholder="SELECT forei... integration_mapping" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pos_checkout.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/patient_file/pos_checkout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="418" column="34" selection-start-line="418" selection-start-column="34" selection-end-line="418" selection-end-column="34" />
+              <folding>
+                <marker date="1419605416000" expanded="true" signature="4798:4997" placeholder="SELECT forei... integration_mapping" />
+                <marker date="1419605416000" expanded="true" signature="5310:5433" placeholder="SELECT forei... integration_mapping" />
+                <marker date="1419605416000" expanded="true" signature="5833:5974" placeholder="SELECT forei... integration_mapping" />
+                <marker date="1419605416000" expanded="true" signature="11017:11116" placeholder="SELECT * FRO... facility" />
+                <marker date="1419605416000" expanded="true" signature="11461:11565" placeholder="SELECT id, d... " />
+                <marker date="1419605416000" expanded="true" signature="11639:11763" placeholder="SELECT id, d... " />
+                <marker date="1419605416000" expanded="true" signature="12516:12616" placeholder="SELECT * FRO... ar" />
+                <marker date="1419605416000" expanded="true" signature="13348:13412" placeholder="SELECT date " />
+                <marker date="1419605416000" expanded="true" signature="13576:13665" placeholder="SELECT invoi... form_encounter" />
+                <marker date="1419605416000" expanded="true" signature="16372:16577" placeholder="SELECT * FRO... billing" />
+                <marker date="1419605416000" expanded="true" signature="17710:17800" placeholder="SELECT * FRO... invoice" />
+                <marker date="1419605416000" expanded="true" signature="18632:18798" placeholder="SELECT fee, billing" />
+                <marker date="1419605416000" expanded="true" signature="19863:19912" placeholder="select id fr... chart" />
+                <marker date="1419605416000" expanded="true" signature="20122:20232" placeholder="SELECT * FRO... acc_trans" />
+                <marker date="1419605416000" expanded="true" signature="26047:26123" placeholder="SELECT id FR... form_encounter" />
+                <marker date="1419605416000" expanded="true" signature="26309:26389" placeholder="select id fr... ar" />
+                <marker date="1419605416000" expanded="true" signature="26613:26720" placeholder="UPDATE billi... " />
+                <marker date="1419605416000" expanded="true" signature="27617:27713" placeholder="update drug_... " />
+                <marker date="1419605416000" expanded="true" signature="28467:28548" placeholder="UPDATE billi... " />
+                <marker date="1419605416000" expanded="true" signature="28984:29334" placeholder="INSERT INTO ar_activity... " />
+                <marker date="1419605416000" expanded="true" signature="29909:30122" placeholder="SELECT * FRO... billing" />
+                <marker date="1419605416000" expanded="true" signature="30483:30764" placeholder="INSERT INTO ar_session... " />
+                <marker date="1419605416000" expanded="true" signature="30885:31061" placeholder="INSERT INTO ar_activity... " />
+                <marker date="1419605416000" expanded="true" signature="33191:33298" placeholder="SELECT id, u... users" />
+                <marker date="1419605416000" expanded="true" signature="39232:39332" placeholder="SELECT taxra... codes" />
+                <marker date="1419605416000" expanded="true" signature="41276:41379" placeholder="SELECT taxra... drug_templates" />
+                <marker date="1419605416000" expanded="true" signature="42021:42134" placeholder="SELECT provi... form_encounter" />
+                <marker date="1419605416000" expanded="true" signature="42679:42742" placeholder="SELECT * FRO... list_options" />
+                <marker date="1419605416000" expanded="true" signature="47321:47425" placeholder="SELECT COUNT... " />
+                <marker date="1419605416000" expanded="true" signature="47558:47705" placeholder="SELECT COUNT... " />
+                <marker date="1419605416000" expanded="true" signature="47824:47957" placeholder="SELECT COUNT... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_comprehensive_save.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/new/new_comprehensive_save.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="69" column="58" selection-start-line="69" selection-start-column="58" selection-end-line="69" selection-end-column="58" />
+              <folding>
+                <marker date="1419605396000" expanded="true" signature="563:666" placeholder="SELECT count... " />
+                <marker date="1419605396000" expanded="true" signature="1118:1160" placeholder="SELECT MAX(p... patient_data" />
+                <marker date="1419605396000" expanded="true" signature="1517:1637" placeholder="SELECT * FRO... layout_options" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server_side.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myportal/soap_service/server_side.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="591" column="43" selection-start-line="591" selection-start-column="43" selection-end-line="591" selection-end-column="43" />
+              <folding>
+                <marker date="1419605300000" expanded="true" signature="2229:3373" placeholder="SELECT po.pr... procedure_order" />
+                <marker date="1419605300000" expanded="true" signature="7483:8357" placeholder="SELECT am.id... audit_details" />
+                <marker date="1419605300000" expanded="true" signature="11732:11802" placeholder="select id fr... documents" />
+                <marker date="1419605300000" expanded="true" signature="12127:12218" placeholder="UPDATE docum... " />
+                <marker date="1419605300000" expanded="true" signature="12483:13960" placeholder="SELECT dlm.d... documents_legal_master" />
+                <marker date="1419605300000" expanded="true" signature="13711:13905" placeholder="SELECT dlc_i... documents_legal_categories" />
+                <marker date="1419605300000" expanded="true" signature="14335:14359" placeholder="SELECT * FRO... categories" />
+                <marker date="1419605300000" expanded="true" signature="22265:22346" placeholder="insert into patient_access_offsite... " />
+                <marker date="1419605300000" expanded="true" signature="23354:23422" placeholder="select * fro... patient_access_offsite" />
+                <marker date="1419605300000" expanded="true" signature="23531:23577" placeholder="UPDATE patie... " />
+                <marker date="1419605300000" expanded="true" signature="23846:23991" placeholder="SELECT * fro... audit_details" />
+                <marker date="1419605300000" expanded="true" signature="24099:24237" placeholder="UPDATE audit... " />
+                <marker date="1419605300000" expanded="true" signature="24850:24921" placeholder="update opene... " />
+                <marker date="1419605300000" expanded="true" signature="25007:25061" placeholder="update audit... " />
+                <marker date="1419605300000" expanded="true" signature="25419:25481" placeholder="UPDATE docum... " />
+                <marker date="1419605300000" expanded="true" signature="25878:27181" placeholder="SELECT am2.a... audit_master" />
+                <marker date="1419605300000" expanded="true" signature="27471:27533" placeholder="SELECT pid F... patient_access_offsite" />
+                <marker date="1419605300000" expanded="true" signature="27575:27666" placeholder="UPDATE docum... " />
+                <marker date="1419605300000" expanded="true" signature="27895:27976" placeholder="UPDATE docum... " />
+                <marker date="1419605300000" expanded="true" signature="28233:28324" placeholder="UPDATE docum... " />
+                <marker date="1419605300000" expanded="true" signature="28578:28700" placeholder="UPDATE docum... " />
+                <marker date="1419605300000" expanded="true" signature="29025:29201" placeholder="INSERT INTO documents_legal_detail... " />
+                <marker date="1419605300000" expanded="true" signature="30235:30433" placeholder="INSERT INTO documents_legal_master... " />
+                <marker date="1419605300000" expanded="true" signature="32699:32832" placeholder="SELECT porta... patient_access_offsite" />
+                <marker date="1419605300000" expanded="true" signature="32977:33509" placeholder="SELECT COUNT... audit_master" />
+                <marker date="1419605300000" expanded="true" signature="35516:35593" placeholder="UPDATE payme... " />
+                <marker date="1419605300000" expanded="true" signature="35681:35753" placeholder="INSERT INTO payment_gateway_details... " />
+                <marker date="1419605300000" expanded="true" signature="35937:36050" placeholder="UPDATE payme... " />
+                <marker date="1419605300000" expanded="true" signature="36174:36270" placeholder="INSERT INTO payment_gateway_details... " />
+                <marker date="1419605300000" expanded="true" signature="36727:36795" placeholder="UPDATE patie... " />
+                <marker date="1419605300000" expanded="true" signature="37058:37170" placeholder="DELETE FROM " />
+                <marker date="1419605300000" expanded="true" signature="37109:37169" placeholder="SELECT id FR... audit_master" />
+                <marker date="1419605300000" expanded="true" signature="37206:37263" placeholder="DELETE FROM " />
+                <marker date="1419605300000" expanded="true" signature="37404:37451" placeholder="SELECT * FRO... audit_details" />
+                <marker date="1419605300000" expanded="true" signature="37609:37644" placeholder="INSERT INTO audit_master... " />
+                <marker date="1419605300000" expanded="true" signature="37669:37732" placeholder="INSERT INTO audit_details... " />
+                <marker date="1419605300000" expanded="true" signature="38328:38388" placeholder="SELECT * FRO... patient_access_offsite" />
+                <marker date="1419605300000" expanded="true" signature="38748:38787" placeholder="SELECT pid F... audit_master" />
+                <marker date="1419605300000" expanded="true" signature="39082:39134" placeholder="SELECT IFNUL... patient_data" />
+                <marker date="1419605300000" expanded="true" signature="39324:39686" placeholder="SELECT ad.au... audit_details" />
+                <marker date="1419605300000" expanded="true" signature="39952:40009" placeholder="SELECT allow... patient_data" />
+                <marker date="1419605300000" expanded="true" signature="40078:40402" placeholder="SELECT IF(CO... audit_master" />
+                <marker date="1419605300000" expanded="true" signature="41043:41103" placeholder="SELECT * FRO... patient_access_offsite" />
+                <marker date="1419605300000" expanded="true" signature="41250:41721" placeholder="SELECT ad2.f... audit_master" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="left_nav.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/main/left_nav.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="783" column="22" selection-start-line="783" selection-start-column="22" selection-end-line="783" selection-end-column="22" />
+              <folding>
+                <marker date="1419605396000" expanded="true" signature="51439:51580" placeholder="select mod_d... modules" />
+                <marker date="1419605396000" expanded="true" signature="58226:58306" placeholder="SELECT * FRO... list_options" />
+                <marker date="1419605396000" expanded="true" signature="60884:61025" placeholder="select mod_d... modules" />
+                <marker date="1419605396000" expanded="true" signature="63126:63204" placeholder="select newcr... users" />
+                <marker date="1419605396000" expanded="true" signature="68501:68894" placeholder="SELECT msh.*... modules_hooks_settings" />
+                <marker date="1419605396000" expanded="true" signature="75920:76000" placeholder="SELECT * FRO... list_options" />
+                <marker date="1419605396000" expanded="true" signature="77398:77459" placeholder="SELECT state... registry" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/interface/main/main_title.php" />
+        <option value="$PROJECT_DIR$/library/sql.inc" />
+        <option value="$PROJECT_DIR$/library/patient.inc" />
+        <option value="$PROJECT_DIR$/interface/patient_file/summary/demographics.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="." />
+      <path value="\xampp\php\PEAR" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="17" />
+    <option name="y" value="2" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="openemr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="openemr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="openemr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\dev\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20a46b26-96c7-49b6-bc15-1c1c9f038d5a" name="Default" comment="" />
+      <created>1454845269182</created>
+      <option name="number" value="Default" />
+      <updated>1454845269182</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="17" y="2" width="1346" height="688" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962406" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28842834" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/interface/main/calendar/modules/PostCalendar/pntemplates/default/user/patient_line.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/patient_file/summary/demographics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#815#0#PHP" expanded="true" />
+            <marker date="1454982433397" expanded="true" signature="2466:2778" placeholder="select docum... documents" />
+            <marker date="1454982433397" expanded="true" signature="3182:3458" placeholder="SELECT d.id,... documents" />
+            <marker date="1454982433397" expanded="true" signature="5202:5288" placeholder="SELECT count... " />
+            <marker date="1454982433397" expanded="true" signature="7843:7943" placeholder="SELECT id, t... lists" />
+            <marker date="1454982433397" expanded="true" signature="9799:9894" placeholder="select soap_... patient_data" />
+            <marker date="1454982433397" expanded="true" signature="13061:13172" placeholder="SELECT optio... list_options" />
+            <marker date="1454982433397" expanded="true" signature="15396:15639" placeholder="SELECT fe.en... form_encounter" />
+            <marker date="1454982433397" expanded="true" signature="17405:17422" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="17699:17716" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="17916:17933" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="18397:18454" placeholder="SELECT allow... patient_data" />
+            <marker date="1454982433397" expanded="true" signature="18557:18610" placeholder="SELECT pid F... patient_access_onsite" />
+            <marker date="1454982433397" expanded="true" signature="18650:18667" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="19293:19350" placeholder="SELECT allow... patient_data" />
+            <marker date="1454982433397" expanded="true" signature="19453:19507" placeholder="SELECT pid F... patient_access_offsite" />
+            <marker date="1454982433397" expanded="true" signature="19547:19564" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="20198:20215" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="20539:20582" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="22112:22453" placeholder="SELECT msh.*... modules_hooks_settings" />
+            <marker date="1454982433397" expanded="true" signature="27230:27322" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454982433397" expanded="true" signature="28245:28341" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454982433397" expanded="true" signature="29416:29512" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454982433397" expanded="true" signature="39002:39069" placeholder="SELECT * FRO... amendments" />
+            <marker date="1454982433397" expanded="true" signature="41323:41360" placeholder="SELECT * FRO... form_vitals" />
+            <marker date="1454982433397" expanded="true" signature="42061:42179" placeholder="SELECT optio... list_options" />
+            <marker date="1454982433397" expanded="true" signature="42710:42775" placeholder="SELECT * FRO... forms" />
+            <marker date="1454982433397" expanded="true" signature="45055:45111" placeholder="SELECT id FR... categories" />
+            <marker date="1454982433397" expanded="true" signature="45234:45280" placeholder="SELECT id, n... categories" />
+            <marker date="1454982433397" expanded="true" signature="48780:48853" placeholder="UPDATE patie... " />
+            <marker date="1454982433397" expanded="true" signature="49004:49059" placeholder="UPDATE lists... " />
+            <marker date="1454982433397" expanded="true" signature="49493:49510" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="49550:49622" placeholder="SELECT * FRO... list_options" />
+            <marker date="1454982433397" expanded="true" signature="52166:52182" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="57794:57892" placeholder="SELECT count... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/new/new_search_popup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="216" column="38" selection-start-line="216" selection-start-column="38" selection-end-line="216" selection-end-column="38" />
+          <folding>
+            <marker date="1419605396000" expanded="true" signature="5610:5883" placeholder="SELECT field... layout_options" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrib/util/import_mi2xml.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="143" column="14" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
+          <folding>
+            <marker date="1419605392000" expanded="true" signature="2321:2377" placeholder="SELECT pid F... patient_data" />
+            <marker date="1419605392000" expanded="true" signature="3198:3277" placeholder="SELECT id, n... facility" />
+            <marker date="1419605392000" expanded="true" signature="3643:3685" placeholder="SELECT max(p... patient_data" />
+            <marker date="1419605392000" expanded="true" signature="11596:11628" placeholder="SELECT id FR... lists" />
+            <marker date="1419605392000" expanded="true" signature="12170:12673" placeholder="INSERT INTO lists... " />
+            <marker date="1419605392000" expanded="true" signature="12941:13411" placeholder="update lists... " />
+            <marker date="1419605392000" expanded="true" signature="13881:13946" placeholder="SELECT pid F... aperio_medical_history" />
+            <marker date="1419605392000" expanded="true" signature="13977:14436" placeholder="INSERT INTO aperio_medical_history... " />
+            <marker date="1419605392000" expanded="true" signature="14569:15060" placeholder="UPDATE aperi... " />
+            <marker date="1419605392000" expanded="true" signature="15526:15859" placeholder="INSERT INTO form_encounter... " />
+            <marker date="1419605392000" expanded="true" signature="17422:18531" placeholder="INSERT INTO form_aperio_ros... " />
+            <marker date="1419605392000" expanded="true" signature="19435:20495" placeholder="INSERT INTO form_aperio_pe... " />
+            <marker date="1419605392000" expanded="true" signature="21032:21389" placeholder="INSERT INTO form_aperio_ap... " />
+            <marker date="1419605392000" expanded="true" signature="21883:22145" placeholder="INSERT INTO form_aperio_opd... " />
+            <marker date="1419605392000" expanded="true" signature="23104:24756" placeholder="INSERT INTO form_vitals... " />
+            <marker date="1419605392000" expanded="true" signature="26600:26664" placeholder="SELECT fee F... codes" />
+            <marker date="1419605392000" expanded="true" signature="26898:27672" placeholder="INSERT INTO billing... " />
+            <marker date="1419605392000" expanded="true" signature="27787:27843" placeholder="SELECT pid F... patient_data" />
+            <marker date="1419605392000" expanded="true" signature="28468:28555" placeholder="SELECT id, u... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/patient.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="878" column="5" selection-start-line="878" selection-start-column="5" selection-end-line="878" selection-end-column="5" />
+          <folding>
+            <marker date="1454940610176" expanded="true" signature="2084:2156" placeholder="select ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="2279:2340" placeholder="select disti... " />
+            <marker date="1454940610176" expanded="true" signature="2657:2704" placeholder="select name insurance_companies" />
+            <marker date="1454940610176" expanded="true" signature="2876:2934" placeholder="select name,... insurance_companies" />
+            <marker date="1454940610176" expanded="true" signature="4031:4129" placeholder="select fname... users" />
+            <marker date="1454940610176" expanded="true" signature="4851:4886" placeholder="SELECT * FRO... facility" />
+            <marker date="1454940610176" expanded="true" signature="4971:5065" placeholder="SELECT * FRO... facility" />
+            <marker date="1454940610176" expanded="true" signature="5095:5210" placeholder="SELECT facil... users" />
+            <marker date="1454940610176" expanded="true" signature="6820:6854" placeholder="SELECT * FRO... facility" />
+            <marker date="1454940610176" expanded="true" signature="7370:7432" placeholder="SELECT * FRO... facility" />
+            <marker date="1454940610176" expanded="true" signature="10328:10367" placeholder="select id fr... users" />
+            <marker date="1454940610176" expanded="true" signature="10605:10672" placeholder="select disti... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="11035:11137" placeholder="select ${$gi... history_data" />
+            <marker date="1454940610176" expanded="true" signature="11246:11334" placeholder="select ${$gi... history_data" />
+            <marker date="1454940610176" expanded="true" signature="11434:11522" placeholder="select ${$gi... history_data" />
+            <marker date="1454940610176" expanded="true" signature="11591:11663" placeholder="select ${$gi... history_data" />
+            <marker date="1454940610176" expanded="true" signature="11973:12147" placeholder="select ${$gi... insurance_data" />
+            <marker date="1454940610176" expanded="true" signature="12652:12866" placeholder="select ${$gi... insurance_data" />
+            <marker date="1454940610176" expanded="true" signature="12982:13055" placeholder="select ${$gi... employer_data" />
+            <marker date="1454940610176" expanded="true" signature="13421:13470" placeholder="SELECT count... " />
+            <marker date="1454940610176" expanded="true" signature="15450:15504" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="16732:16786" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="17329:17425" placeholder="SELECT field... layout_options" />
+            <marker date="1454940610176" expanded="true" signature="17743:17797" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="19435:19489" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="20779:20846" placeholder="select ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="22260:22314" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="22906:22960" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="23659:23713" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="24141:24182" placeholder="select ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="26143:26209" placeholder="select id, f... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="26619:26735" placeholder="SELECT optio... list_options" />
+            <marker date="1454940610176" expanded="true" signature="28652:28719" placeholder="select pid f... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="31193:31248" placeholder="INSERT INTO patient_data... " />
+            <marker date="1454940610176" expanded="true" signature="31667:31939" placeholder="INSERT INTO sma.sma_companies... " />
+            <marker date="1454940610176" expanded="true" signature="32073:32121" placeholder="SELECT pid F... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="32375:32411" placeholder="UPDATE patie... " />
+            <marker date="1454940610176" expanded="true" signature="32602:32648" placeholder="SELECT * FRO... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="33132:33358" placeholder="insert into employer_data... " />
+            <marker date="1454940610176" expanded="true" signature="33771:33801" placeholder="INSERT INTO employer_data... " />
+            <marker date="1454940610176" expanded="true" signature="34253:34283" placeholder="INSERT INTO employer_data... " />
+            <marker date="1454940610176" expanded="true" signature="35526:35620" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454940610176" expanded="true" signature="36262:36439" placeholder="SELECT count... " />
+            <marker date="1454940610176" expanded="true" signature="36737:36864" placeholder="DELETE FROM " />
+            <marker date="1454940610176" expanded="true" signature="38480:39833" placeholder="INSERT INTO insurance_data... " />
+            <marker date="1454940610176" expanded="true" signature="40115:40140" placeholder="UPDATE insur... " />
+            <marker date="1454940610176" expanded="true" signature="40379:40429" placeholder="insert into history_data... " />
+            <marker date="1454940610176" expanded="true" signature="40959:41003" placeholder="insert into history_data... " />
+            <marker date="1454940610176" expanded="true" signature="41597:41717" placeholder="SELECT forei... integration_mapping" />
+            <marker date="1454940610176" expanded="true" signature="42424:42509" placeholder="SELECT zone_... geo_zone_reference" />
+            <marker date="1454940610176" expanded="true" signature="42809:42920" placeholder="SELECT count... geo_country_reference" />
+            <marker date="1454940610176" expanded="true" signature="51562:51621" placeholder="SELECT * FRO... geo_country_reference" />
+            <marker date="1454940610176" expanded="true" signature="56498:56590" placeholder="SELECT count... geo_country_reference" />
+            <marker date="1454940610176" expanded="true" signature="56622:56714" placeholder="SELECT count... geo_country_reference" />
+            <marker date="1454940610176" expanded="true" signature="57461:57579" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454940610176" expanded="true" signature="58779:58920" placeholder="SELECT SUM(f... billing" />
+            <marker date="1454940610176" expanded="true" signature="59398:59515" placeholder="SELECT SUM(f... billing" />
+            <marker date="1454940610176" expanded="true" signature="59770:59858" placeholder="SELECT SUM(f... drug_sales" />
+            <marker date="1454940610176" expanded="true" signature="60281:60514" placeholder="SELECT forei... integration_mapping" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/patient_file/pos_checkout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="418" column="34" selection-start-line="418" selection-start-column="34" selection-end-line="418" selection-end-column="34" />
+          <folding>
+            <marker date="1419605416000" expanded="true" signature="4798:4997" placeholder="SELECT forei... integration_mapping" />
+            <marker date="1419605416000" expanded="true" signature="5310:5433" placeholder="SELECT forei... integration_mapping" />
+            <marker date="1419605416000" expanded="true" signature="5833:5974" placeholder="SELECT forei... integration_mapping" />
+            <marker date="1419605416000" expanded="true" signature="11017:11116" placeholder="SELECT * FRO... facility" />
+            <marker date="1419605416000" expanded="true" signature="11461:11565" placeholder="SELECT id, d... " />
+            <marker date="1419605416000" expanded="true" signature="11639:11763" placeholder="SELECT id, d... " />
+            <marker date="1419605416000" expanded="true" signature="12516:12616" placeholder="SELECT * FRO... ar" />
+            <marker date="1419605416000" expanded="true" signature="13348:13412" placeholder="SELECT date " />
+            <marker date="1419605416000" expanded="true" signature="13576:13665" placeholder="SELECT invoi... form_encounter" />
+            <marker date="1419605416000" expanded="true" signature="16372:16577" placeholder="SELECT * FRO... billing" />
+            <marker date="1419605416000" expanded="true" signature="17710:17800" placeholder="SELECT * FRO... invoice" />
+            <marker date="1419605416000" expanded="true" signature="18632:18798" placeholder="SELECT fee, billing" />
+            <marker date="1419605416000" expanded="true" signature="19863:19912" placeholder="select id fr... chart" />
+            <marker date="1419605416000" expanded="true" signature="20122:20232" placeholder="SELECT * FRO... acc_trans" />
+            <marker date="1419605416000" expanded="true" signature="26047:26123" placeholder="SELECT id FR... form_encounter" />
+            <marker date="1419605416000" expanded="true" signature="26309:26389" placeholder="select id fr... ar" />
+            <marker date="1419605416000" expanded="true" signature="26613:26720" placeholder="UPDATE billi... " />
+            <marker date="1419605416000" expanded="true" signature="27617:27713" placeholder="update drug_... " />
+            <marker date="1419605416000" expanded="true" signature="28467:28548" placeholder="UPDATE billi... " />
+            <marker date="1419605416000" expanded="true" signature="28984:29334" placeholder="INSERT INTO ar_activity... " />
+            <marker date="1419605416000" expanded="true" signature="29909:30122" placeholder="SELECT * FRO... billing" />
+            <marker date="1419605416000" expanded="true" signature="30483:30764" placeholder="INSERT INTO ar_session... " />
+            <marker date="1419605416000" expanded="true" signature="30885:31061" placeholder="INSERT INTO ar_activity... " />
+            <marker date="1419605416000" expanded="true" signature="33191:33298" placeholder="SELECT id, u... users" />
+            <marker date="1419605416000" expanded="true" signature="39232:39332" placeholder="SELECT taxra... codes" />
+            <marker date="1419605416000" expanded="true" signature="41276:41379" placeholder="SELECT taxra... drug_templates" />
+            <marker date="1419605416000" expanded="true" signature="42021:42134" placeholder="SELECT provi... form_encounter" />
+            <marker date="1419605416000" expanded="true" signature="42679:42742" placeholder="SELECT * FRO... list_options" />
+            <marker date="1419605416000" expanded="true" signature="47321:47425" placeholder="SELECT COUNT... " />
+            <marker date="1419605416000" expanded="true" signature="47558:47705" placeholder="SELECT COUNT... " />
+            <marker date="1419605416000" expanded="true" signature="47824:47957" placeholder="SELECT COUNT... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/new/new_comprehensive_save.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="58" selection-start-line="69" selection-start-column="58" selection-end-line="69" selection-end-column="58" />
+          <folding>
+            <marker date="1419605396000" expanded="true" signature="563:666" placeholder="SELECT count... " />
+            <marker date="1419605396000" expanded="true" signature="1118:1160" placeholder="SELECT MAX(p... patient_data" />
+            <marker date="1419605396000" expanded="true" signature="1517:1637" placeholder="SELECT * FRO... layout_options" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myportal/soap_service/server_side.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="591" column="43" selection-start-line="591" selection-start-column="43" selection-end-line="591" selection-end-column="43" />
+          <folding>
+            <marker date="1419605300000" expanded="true" signature="2229:3373" placeholder="SELECT po.pr... procedure_order" />
+            <marker date="1419605300000" expanded="true" signature="7483:8357" placeholder="SELECT am.id... audit_details" />
+            <marker date="1419605300000" expanded="true" signature="11732:11802" placeholder="select id fr... documents" />
+            <marker date="1419605300000" expanded="true" signature="12127:12218" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="12483:13960" placeholder="SELECT dlm.d... documents_legal_master" />
+            <marker date="1419605300000" expanded="true" signature="13711:13905" placeholder="SELECT dlc_i... documents_legal_categories" />
+            <marker date="1419605300000" expanded="true" signature="14335:14359" placeholder="SELECT * FRO... categories" />
+            <marker date="1419605300000" expanded="true" signature="22265:22346" placeholder="insert into patient_access_offsite... " />
+            <marker date="1419605300000" expanded="true" signature="23354:23422" placeholder="select * fro... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="23531:23577" placeholder="UPDATE patie... " />
+            <marker date="1419605300000" expanded="true" signature="23846:23991" placeholder="SELECT * fro... audit_details" />
+            <marker date="1419605300000" expanded="true" signature="24099:24237" placeholder="UPDATE audit... " />
+            <marker date="1419605300000" expanded="true" signature="24850:24921" placeholder="update opene... " />
+            <marker date="1419605300000" expanded="true" signature="25007:25061" placeholder="update audit... " />
+            <marker date="1419605300000" expanded="true" signature="25419:25481" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="25878:27181" placeholder="SELECT am2.a... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="27471:27533" placeholder="SELECT pid F... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="27575:27666" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="27895:27976" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="28233:28324" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="28578:28700" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="29025:29201" placeholder="INSERT INTO documents_legal_detail... " />
+            <marker date="1419605300000" expanded="true" signature="30235:30433" placeholder="INSERT INTO documents_legal_master... " />
+            <marker date="1419605300000" expanded="true" signature="32699:32832" placeholder="SELECT porta... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="32977:33509" placeholder="SELECT COUNT... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="35516:35593" placeholder="UPDATE payme... " />
+            <marker date="1419605300000" expanded="true" signature="35681:35753" placeholder="INSERT INTO payment_gateway_details... " />
+            <marker date="1419605300000" expanded="true" signature="35937:36050" placeholder="UPDATE payme... " />
+            <marker date="1419605300000" expanded="true" signature="36174:36270" placeholder="INSERT INTO payment_gateway_details... " />
+            <marker date="1419605300000" expanded="true" signature="36727:36795" placeholder="UPDATE patie... " />
+            <marker date="1419605300000" expanded="true" signature="37058:37170" placeholder="DELETE FROM " />
+            <marker date="1419605300000" expanded="true" signature="37109:37169" placeholder="SELECT id FR... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="37206:37263" placeholder="DELETE FROM " />
+            <marker date="1419605300000" expanded="true" signature="37404:37451" placeholder="SELECT * FRO... audit_details" />
+            <marker date="1419605300000" expanded="true" signature="37609:37644" placeholder="INSERT INTO audit_master... " />
+            <marker date="1419605300000" expanded="true" signature="37669:37732" placeholder="INSERT INTO audit_details... " />
+            <marker date="1419605300000" expanded="true" signature="38328:38388" placeholder="SELECT * FRO... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="38748:38787" placeholder="SELECT pid F... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="39082:39134" placeholder="SELECT IFNUL... patient_data" />
+            <marker date="1419605300000" expanded="true" signature="39324:39686" placeholder="SELECT ad.au... audit_details" />
+            <marker date="1419605300000" expanded="true" signature="39952:40009" placeholder="SELECT allow... patient_data" />
+            <marker date="1419605300000" expanded="true" signature="40078:40402" placeholder="SELECT IF(CO... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="41043:41103" placeholder="SELECT * FRO... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="41250:41721" placeholder="SELECT ad2.f... audit_master" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/main/left_nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="783" column="22" selection-start-line="783" selection-start-column="22" selection-end-line="783" selection-end-column="22" />
+          <folding>
+            <marker date="1419605396000" expanded="true" signature="51439:51580" placeholder="select mod_d... modules" />
+            <marker date="1419605396000" expanded="true" signature="58226:58306" placeholder="SELECT * FRO... list_options" />
+            <marker date="1419605396000" expanded="true" signature="60884:61025" placeholder="select mod_d... modules" />
+            <marker date="1419605396000" expanded="true" signature="63126:63204" placeholder="select newcr... users" />
+            <marker date="1419605396000" expanded="true" signature="68501:68894" placeholder="SELECT msh.*... modules_hooks_settings" />
+            <marker date="1419605396000" expanded="true" signature="75920:76000" placeholder="SELECT * FRO... list_options" />
+            <marker date="1419605396000" expanded="true" signature="77398:77459" placeholder="SELECT state... registry" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/main/calendar/modules/PostCalendar/pntemplates/default/user/patient_line.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/patient_file/summary/demographics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="485" column="17" selection-start-line="485" selection-start-column="17" selection-end-line="485" selection-end-column="17" />
+          <folding>
+            <element signature="e#6#815#0#PHP" expanded="true" />
+            <marker date="1454982433397" expanded="true" signature="2466:2778" placeholder="select docum... documents" />
+            <marker date="1454982433397" expanded="true" signature="3182:3458" placeholder="SELECT d.id,... documents" />
+            <marker date="1454982433397" expanded="true" signature="5202:5288" placeholder="SELECT count... " />
+            <marker date="1454982433397" expanded="true" signature="7843:7943" placeholder="SELECT id, t... lists" />
+            <marker date="1454982433397" expanded="true" signature="9799:9894" placeholder="select soap_... patient_data" />
+            <marker date="1454982433397" expanded="true" signature="13061:13172" placeholder="SELECT optio... list_options" />
+            <marker date="1454982433397" expanded="true" signature="15396:15639" placeholder="SELECT fe.en... form_encounter" />
+            <marker date="1454982433397" expanded="true" signature="17405:17422" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="17699:17716" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="17916:17933" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="18397:18454" placeholder="SELECT allow... patient_data" />
+            <marker date="1454982433397" expanded="true" signature="18557:18610" placeholder="SELECT pid F... patient_access_onsite" />
+            <marker date="1454982433397" expanded="true" signature="18650:18667" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="19293:19350" placeholder="SELECT allow... patient_data" />
+            <marker date="1454982433397" expanded="true" signature="19453:19507" placeholder="SELECT pid F... patient_access_offsite" />
+            <marker date="1454982433397" expanded="true" signature="19547:19564" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="20198:20215" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="20539:20582" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="22112:22453" placeholder="SELECT msh.*... modules_hooks_settings" />
+            <marker date="1454982433397" expanded="true" signature="27230:27322" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454982433397" expanded="true" signature="28245:28341" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454982433397" expanded="true" signature="29416:29512" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454982433397" expanded="true" signature="39002:39069" placeholder="SELECT * FRO... amendments" />
+            <marker date="1454982433397" expanded="true" signature="41323:41360" placeholder="SELECT * FRO... form_vitals" />
+            <marker date="1454982433397" expanded="true" signature="42061:42179" placeholder="SELECT optio... list_options" />
+            <marker date="1454982433397" expanded="true" signature="42710:42775" placeholder="SELECT * FRO... forms" />
+            <marker date="1454982433397" expanded="true" signature="45055:45111" placeholder="SELECT id FR... categories" />
+            <marker date="1454982433397" expanded="true" signature="45234:45280" placeholder="SELECT id, n... categories" />
+            <marker date="1454982433397" expanded="true" signature="48780:48853" placeholder="UPDATE patie... " />
+            <marker date="1454982433397" expanded="true" signature="49004:49059" placeholder="UPDATE lists... " />
+            <marker date="1454982433397" expanded="true" signature="49493:49510" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="49550:49622" placeholder="SELECT * FRO... list_options" />
+            <marker date="1454982433397" expanded="true" signature="52166:52182" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="57794:57892" placeholder="SELECT count... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/new/new_search_popup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="216" column="38" selection-start-line="216" selection-start-column="38" selection-end-line="216" selection-end-column="38" />
+          <folding>
+            <marker date="1419605396000" expanded="true" signature="5610:5883" placeholder="SELECT field... layout_options" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrib/util/import_mi2xml.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="143" column="14" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
+          <folding>
+            <marker date="1419605392000" expanded="true" signature="2321:2377" placeholder="SELECT pid F... patient_data" />
+            <marker date="1419605392000" expanded="true" signature="3198:3277" placeholder="SELECT id, n... facility" />
+            <marker date="1419605392000" expanded="true" signature="3643:3685" placeholder="SELECT max(p... patient_data" />
+            <marker date="1419605392000" expanded="true" signature="11596:11628" placeholder="SELECT id FR... lists" />
+            <marker date="1419605392000" expanded="true" signature="12170:12673" placeholder="INSERT INTO lists... " />
+            <marker date="1419605392000" expanded="true" signature="12941:13411" placeholder="update lists... " />
+            <marker date="1419605392000" expanded="true" signature="13881:13946" placeholder="SELECT pid F... aperio_medical_history" />
+            <marker date="1419605392000" expanded="true" signature="13977:14436" placeholder="INSERT INTO aperio_medical_history... " />
+            <marker date="1419605392000" expanded="true" signature="14569:15060" placeholder="UPDATE aperi... " />
+            <marker date="1419605392000" expanded="true" signature="15526:15859" placeholder="INSERT INTO form_encounter... " />
+            <marker date="1419605392000" expanded="true" signature="17422:18531" placeholder="INSERT INTO form_aperio_ros... " />
+            <marker date="1419605392000" expanded="true" signature="19435:20495" placeholder="INSERT INTO form_aperio_pe... " />
+            <marker date="1419605392000" expanded="true" signature="21032:21389" placeholder="INSERT INTO form_aperio_ap... " />
+            <marker date="1419605392000" expanded="true" signature="21883:22145" placeholder="INSERT INTO form_aperio_opd... " />
+            <marker date="1419605392000" expanded="true" signature="23104:24756" placeholder="INSERT INTO form_vitals... " />
+            <marker date="1419605392000" expanded="true" signature="26600:26664" placeholder="SELECT fee F... codes" />
+            <marker date="1419605392000" expanded="true" signature="26898:27672" placeholder="INSERT INTO billing... " />
+            <marker date="1419605392000" expanded="true" signature="27787:27843" placeholder="SELECT pid F... patient_data" />
+            <marker date="1419605392000" expanded="true" signature="28468:28555" placeholder="SELECT id, u... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/patient.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="863" column="18" selection-start-line="863" selection-start-column="18" selection-end-line="863" selection-end-column="18" />
+          <folding>
+            <marker date="1454940610176" expanded="true" signature="2084:2156" placeholder="select ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="2279:2340" placeholder="select disti... " />
+            <marker date="1454940610176" expanded="true" signature="2657:2704" placeholder="select name insurance_companies" />
+            <marker date="1454940610176" expanded="true" signature="2876:2934" placeholder="select name,... insurance_companies" />
+            <marker date="1454940610176" expanded="true" signature="4031:4129" placeholder="select fname... users" />
+            <marker date="1454940610176" expanded="true" signature="4851:4886" placeholder="SELECT * FRO... facility" />
+            <marker date="1454940610176" expanded="true" signature="4971:5065" placeholder="SELECT * FRO... facility" />
+            <marker date="1454940610176" expanded="true" signature="5095:5210" placeholder="SELECT facil... users" />
+            <marker date="1454940610176" expanded="true" signature="6820:6854" placeholder="SELECT * FRO... facility" />
+            <marker date="1454940610176" expanded="true" signature="7370:7432" placeholder="SELECT * FRO... facility" />
+            <marker date="1454940610176" expanded="true" signature="10328:10367" placeholder="select id fr... users" />
+            <marker date="1454940610176" expanded="true" signature="10605:10672" placeholder="select disti... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="11035:11137" placeholder="select ${$gi... history_data" />
+            <marker date="1454940610176" expanded="true" signature="11246:11334" placeholder="select ${$gi... history_data" />
+            <marker date="1454940610176" expanded="true" signature="11434:11522" placeholder="select ${$gi... history_data" />
+            <marker date="1454940610176" expanded="true" signature="11591:11663" placeholder="select ${$gi... history_data" />
+            <marker date="1454940610176" expanded="true" signature="11973:12147" placeholder="select ${$gi... insurance_data" />
+            <marker date="1454940610176" expanded="true" signature="12652:12866" placeholder="select ${$gi... insurance_data" />
+            <marker date="1454940610176" expanded="true" signature="12982:13055" placeholder="select ${$gi... employer_data" />
+            <marker date="1454940610176" expanded="true" signature="13421:13470" placeholder="SELECT count... " />
+            <marker date="1454940610176" expanded="true" signature="15450:15504" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="16732:16786" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="17329:17425" placeholder="SELECT field... layout_options" />
+            <marker date="1454940610176" expanded="true" signature="17743:17797" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="19435:19489" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="20779:20846" placeholder="select ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="22260:22314" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="22906:22960" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="23659:23713" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="24141:24182" placeholder="select ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="26143:26209" placeholder="select id, f... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="26619:26735" placeholder="SELECT optio... list_options" />
+            <marker date="1454940610176" expanded="true" signature="28652:28719" placeholder="select pid f... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="31193:31248" placeholder="INSERT INTO patient_data... " />
+            <marker date="1454940610176" expanded="true" signature="31667:31939" placeholder="INSERT INTO sma.sma_companies... " />
+            <marker date="1454940610176" expanded="true" signature="32073:32121" placeholder="SELECT pid F... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="32375:32411" placeholder="UPDATE patie... " />
+            <marker date="1454940610176" expanded="true" signature="32602:32648" placeholder="SELECT * FRO... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="33132:33358" placeholder="insert into employer_data... " />
+            <marker date="1454940610176" expanded="true" signature="33771:33801" placeholder="INSERT INTO employer_data... " />
+            <marker date="1454940610176" expanded="true" signature="34253:34283" placeholder="INSERT INTO employer_data... " />
+            <marker date="1454940610176" expanded="true" signature="35526:35620" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454940610176" expanded="true" signature="36262:36439" placeholder="SELECT count... " />
+            <marker date="1454940610176" expanded="true" signature="36737:36864" placeholder="DELETE FROM " />
+            <marker date="1454940610176" expanded="true" signature="38480:39833" placeholder="INSERT INTO insurance_data... " />
+            <marker date="1454940610176" expanded="true" signature="40115:40140" placeholder="UPDATE insur... " />
+            <marker date="1454940610176" expanded="true" signature="40379:40429" placeholder="insert into history_data... " />
+            <marker date="1454940610176" expanded="true" signature="40959:41003" placeholder="insert into history_data... " />
+            <marker date="1454940610176" expanded="true" signature="41597:41717" placeholder="SELECT forei... integration_mapping" />
+            <marker date="1454940610176" expanded="true" signature="42424:42509" placeholder="SELECT zone_... geo_zone_reference" />
+            <marker date="1454940610176" expanded="true" signature="42809:42920" placeholder="SELECT count... geo_country_reference" />
+            <marker date="1454940610176" expanded="true" signature="51562:51621" placeholder="SELECT * FRO... geo_country_reference" />
+            <marker date="1454940610176" expanded="true" signature="56498:56590" placeholder="SELECT count... geo_country_reference" />
+            <marker date="1454940610176" expanded="true" signature="56622:56714" placeholder="SELECT count... geo_country_reference" />
+            <marker date="1454940610176" expanded="true" signature="57461:57579" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454940610176" expanded="true" signature="58779:58920" placeholder="SELECT SUM(f... billing" />
+            <marker date="1454940610176" expanded="true" signature="59398:59515" placeholder="SELECT SUM(f... billing" />
+            <marker date="1454940610176" expanded="true" signature="59770:59858" placeholder="SELECT SUM(f... drug_sales" />
+            <marker date="1454940610176" expanded="true" signature="60281:60514" placeholder="SELECT forei... integration_mapping" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/sql.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/new/new_comprehensive_save.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="58" selection-start-line="69" selection-start-column="58" selection-end-line="69" selection-end-column="58" />
+          <folding>
+            <marker date="1419605396000" expanded="true" signature="563:666" placeholder="SELECT count... " />
+            <marker date="1419605396000" expanded="true" signature="1118:1160" placeholder="SELECT MAX(p... patient_data" />
+            <marker date="1419605396000" expanded="true" signature="1517:1637" placeholder="SELECT * FRO... layout_options" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myportal/soap_service/server_side.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="591" column="43" selection-start-line="591" selection-start-column="43" selection-end-line="591" selection-end-column="43" />
+          <folding>
+            <marker date="1419605300000" expanded="true" signature="2229:3373" placeholder="SELECT po.pr... procedure_order" />
+            <marker date="1419605300000" expanded="true" signature="7483:8357" placeholder="SELECT am.id... audit_details" />
+            <marker date="1419605300000" expanded="true" signature="11732:11802" placeholder="select id fr... documents" />
+            <marker date="1419605300000" expanded="true" signature="12127:12218" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="12483:13960" placeholder="SELECT dlm.d... documents_legal_master" />
+            <marker date="1419605300000" expanded="true" signature="13711:13905" placeholder="SELECT dlc_i... documents_legal_categories" />
+            <marker date="1419605300000" expanded="true" signature="14335:14359" placeholder="SELECT * FRO... categories" />
+            <marker date="1419605300000" expanded="true" signature="22265:22346" placeholder="insert into patient_access_offsite... " />
+            <marker date="1419605300000" expanded="true" signature="23354:23422" placeholder="select * fro... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="23531:23577" placeholder="UPDATE patie... " />
+            <marker date="1419605300000" expanded="true" signature="23846:23991" placeholder="SELECT * fro... audit_details" />
+            <marker date="1419605300000" expanded="true" signature="24099:24237" placeholder="UPDATE audit... " />
+            <marker date="1419605300000" expanded="true" signature="24850:24921" placeholder="update opene... " />
+            <marker date="1419605300000" expanded="true" signature="25007:25061" placeholder="update audit... " />
+            <marker date="1419605300000" expanded="true" signature="25419:25481" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="25878:27181" placeholder="SELECT am2.a... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="27471:27533" placeholder="SELECT pid F... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="27575:27666" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="27895:27976" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="28233:28324" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="28578:28700" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="29025:29201" placeholder="INSERT INTO documents_legal_detail... " />
+            <marker date="1419605300000" expanded="true" signature="30235:30433" placeholder="INSERT INTO documents_legal_master... " />
+            <marker date="1419605300000" expanded="true" signature="32699:32832" placeholder="SELECT porta... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="32977:33509" placeholder="SELECT COUNT... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="35516:35593" placeholder="UPDATE payme... " />
+            <marker date="1419605300000" expanded="true" signature="35681:35753" placeholder="INSERT INTO payment_gateway_details... " />
+            <marker date="1419605300000" expanded="true" signature="35937:36050" placeholder="UPDATE payme... " />
+            <marker date="1419605300000" expanded="true" signature="36174:36270" placeholder="INSERT INTO payment_gateway_details... " />
+            <marker date="1419605300000" expanded="true" signature="36727:36795" placeholder="UPDATE patie... " />
+            <marker date="1419605300000" expanded="true" signature="37058:37170" placeholder="DELETE FROM " />
+            <marker date="1419605300000" expanded="true" signature="37109:37169" placeholder="SELECT id FR... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="37206:37263" placeholder="DELETE FROM " />
+            <marker date="1419605300000" expanded="true" signature="37404:37451" placeholder="SELECT * FRO... audit_details" />
+            <marker date="1419605300000" expanded="true" signature="37609:37644" placeholder="INSERT INTO audit_master... " />
+            <marker date="1419605300000" expanded="true" signature="37669:37732" placeholder="INSERT INTO audit_details... " />
+            <marker date="1419605300000" expanded="true" signature="38328:38388" placeholder="SELECT * FRO... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="38748:38787" placeholder="SELECT pid F... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="39082:39134" placeholder="SELECT IFNUL... patient_data" />
+            <marker date="1419605300000" expanded="true" signature="39324:39686" placeholder="SELECT ad.au... audit_details" />
+            <marker date="1419605300000" expanded="true" signature="39952:40009" placeholder="SELECT allow... patient_data" />
+            <marker date="1419605300000" expanded="true" signature="40078:40402" placeholder="SELECT IF(CO... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="41043:41103" placeholder="SELECT * FRO... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="41250:41721" placeholder="SELECT ad2.f... audit_master" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/main/left_nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="783" column="22" selection-start-line="783" selection-start-column="22" selection-end-line="783" selection-end-column="22" />
+          <folding>
+            <marker date="1419605396000" expanded="true" signature="51439:51580" placeholder="select mod_d... modules" />
+            <marker date="1419605396000" expanded="true" signature="58226:58306" placeholder="SELECT * FRO... list_options" />
+            <marker date="1419605396000" expanded="true" signature="60884:61025" placeholder="select mod_d... modules" />
+            <marker date="1419605396000" expanded="true" signature="63126:63204" placeholder="select newcr... users" />
+            <marker date="1419605396000" expanded="true" signature="68501:68894" placeholder="SELECT msh.*... modules_hooks_settings" />
+            <marker date="1419605396000" expanded="true" signature="75920:76000" placeholder="SELECT * FRO... list_options" />
+            <marker date="1419605396000" expanded="true" signature="77398:77459" placeholder="SELECT state... registry" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/main/calendar/modules/PostCalendar/pntemplates/default/user/patient_line.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/patient_file/summary/demographics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#815#0#PHP" expanded="true" />
+            <marker date="1454982433397" expanded="true" signature="2466:2778" placeholder="select docum... documents" />
+            <marker date="1454982433397" expanded="true" signature="3182:3458" placeholder="SELECT d.id,... documents" />
+            <marker date="1454982433397" expanded="true" signature="5202:5288" placeholder="SELECT count... " />
+            <marker date="1454982433397" expanded="true" signature="7843:7943" placeholder="SELECT id, t... lists" />
+            <marker date="1454982433397" expanded="true" signature="9799:9894" placeholder="select soap_... patient_data" />
+            <marker date="1454982433397" expanded="true" signature="13061:13172" placeholder="SELECT optio... list_options" />
+            <marker date="1454982433397" expanded="true" signature="15396:15639" placeholder="SELECT fe.en... form_encounter" />
+            <marker date="1454982433397" expanded="true" signature="17405:17422" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="17699:17716" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="17916:17933" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="18397:18454" placeholder="SELECT allow... patient_data" />
+            <marker date="1454982433397" expanded="true" signature="18557:18610" placeholder="SELECT pid F... patient_access_onsite" />
+            <marker date="1454982433397" expanded="true" signature="18650:18667" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="19293:19350" placeholder="SELECT allow... patient_data" />
+            <marker date="1454982433397" expanded="true" signature="19453:19507" placeholder="SELECT pid F... patient_access_offsite" />
+            <marker date="1454982433397" expanded="true" signature="19547:19564" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="20198:20215" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="20539:20582" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="22112:22453" placeholder="SELECT msh.*... modules_hooks_settings" />
+            <marker date="1454982433397" expanded="true" signature="27230:27322" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454982433397" expanded="true" signature="28245:28341" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454982433397" expanded="true" signature="29416:29512" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454982433397" expanded="true" signature="39002:39069" placeholder="SELECT * FRO... amendments" />
+            <marker date="1454982433397" expanded="true" signature="41323:41360" placeholder="SELECT * FRO... form_vitals" />
+            <marker date="1454982433397" expanded="true" signature="42061:42179" placeholder="SELECT optio... list_options" />
+            <marker date="1454982433397" expanded="true" signature="42710:42775" placeholder="SELECT * FRO... forms" />
+            <marker date="1454982433397" expanded="true" signature="45055:45111" placeholder="SELECT id FR... categories" />
+            <marker date="1454982433397" expanded="true" signature="45234:45280" placeholder="SELECT id, n... categories" />
+            <marker date="1454982433397" expanded="true" signature="48780:48853" placeholder="UPDATE patie... " />
+            <marker date="1454982433397" expanded="true" signature="49004:49059" placeholder="UPDATE lists... " />
+            <marker date="1454982433397" expanded="true" signature="49493:49510" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="49550:49622" placeholder="SELECT * FRO... list_options" />
+            <marker date="1454982433397" expanded="true" signature="52166:52182" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="57794:57892" placeholder="SELECT count... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/main/left_nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="783" column="22" selection-start-line="783" selection-start-column="22" selection-end-line="783" selection-end-column="22" />
+          <folding>
+            <marker date="1419605396000" expanded="true" signature="51439:51580" placeholder="select mod_d... modules" />
+            <marker date="1419605396000" expanded="true" signature="58226:58306" placeholder="SELECT * FRO... list_options" />
+            <marker date="1419605396000" expanded="true" signature="60884:61025" placeholder="select mod_d... modules" />
+            <marker date="1419605396000" expanded="true" signature="63126:63204" placeholder="select newcr... users" />
+            <marker date="1419605396000" expanded="true" signature="68501:68894" placeholder="SELECT msh.*... modules_hooks_settings" />
+            <marker date="1419605396000" expanded="true" signature="75920:76000" placeholder="SELECT * FRO... list_options" />
+            <marker date="1419605396000" expanded="true" signature="77398:77459" placeholder="SELECT state... registry" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/spreadsheet.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35928145">
+          <caret line="291" column="10" selection-start-line="291" selection-start-column="10" selection-end-line="291" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/ajax/unset_session_ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="12.269231">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/main/assets/global/plugins/codemirror/addon/selection/active-line.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrib/util/language_translations/current_spreadsheet.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38670695">
+          <caret line="238" column="174" selection-start-line="238" selection-start-column="174" selection-end-line="238" selection-end-column="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/main/calendar/modules/PostCalendar/pntemplates/default/user/patient_line.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/classes/Installer.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3575419">
+          <caret line="317" column="13" selection-start-line="317" selection-start-column="13" selection-end-line="317" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/formdata.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.106145">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/translation.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09497207">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding>
+            <marker date="1419605336000" expanded="true" signature="1093:1264" placeholder="SELECT * FRO... lang_definitions" />
+            <marker date="1419605336000" expanded="true" signature="6328:6388" placeholder="select lang_... lang_languages" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/main/main_title.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2887538">
+          <caret line="105" column="130" selection-start-line="105" selection-start-column="130" selection-end-line="105" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/main/left_nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="783" column="22" selection-start-line="783" selection-start-column="22" selection-end-line="783" selection-end-column="22" />
+          <folding>
+            <marker date="1419605396000" expanded="true" signature="51439:51580" placeholder="select mod_d... modules" />
+            <marker date="1419605396000" expanded="true" signature="58226:58306" placeholder="SELECT * FRO... list_options" />
+            <marker date="1419605396000" expanded="true" signature="60884:61025" placeholder="select mod_d... modules" />
+            <marker date="1419605396000" expanded="true" signature="63126:63204" placeholder="select newcr... users" />
+            <marker date="1419605396000" expanded="true" signature="68501:68894" placeholder="SELECT msh.*... modules_hooks_settings" />
+            <marker date="1419605396000" expanded="true" signature="75920:76000" placeholder="SELECT * FRO... list_options" />
+            <marker date="1419605396000" expanded="true" signature="77398:77459" placeholder="SELECT state... registry" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myportal/soap_service/server_side.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="591" column="43" selection-start-line="591" selection-start-column="43" selection-end-line="591" selection-end-column="43" />
+          <folding>
+            <marker date="1419605300000" expanded="true" signature="2229:3373" placeholder="SELECT po.pr... procedure_order" />
+            <marker date="1419605300000" expanded="true" signature="7483:8357" placeholder="SELECT am.id... audit_details" />
+            <marker date="1419605300000" expanded="true" signature="11732:11802" placeholder="select id fr... documents" />
+            <marker date="1419605300000" expanded="true" signature="12127:12218" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="12483:13960" placeholder="SELECT dlm.d... documents_legal_master" />
+            <marker date="1419605300000" expanded="true" signature="13711:13905" placeholder="SELECT dlc_i... documents_legal_categories" />
+            <marker date="1419605300000" expanded="true" signature="14335:14359" placeholder="SELECT * FRO... categories" />
+            <marker date="1419605300000" expanded="true" signature="22265:22346" placeholder="insert into patient_access_offsite... " />
+            <marker date="1419605300000" expanded="true" signature="23354:23422" placeholder="select * fro... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="23531:23577" placeholder="UPDATE patie... " />
+            <marker date="1419605300000" expanded="true" signature="23846:23991" placeholder="SELECT * fro... audit_details" />
+            <marker date="1419605300000" expanded="true" signature="24099:24237" placeholder="UPDATE audit... " />
+            <marker date="1419605300000" expanded="true" signature="24850:24921" placeholder="update opene... " />
+            <marker date="1419605300000" expanded="true" signature="25007:25061" placeholder="update audit... " />
+            <marker date="1419605300000" expanded="true" signature="25419:25481" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="25878:27181" placeholder="SELECT am2.a... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="27471:27533" placeholder="SELECT pid F... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="27575:27666" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="27895:27976" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="28233:28324" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="28578:28700" placeholder="UPDATE docum... " />
+            <marker date="1419605300000" expanded="true" signature="29025:29201" placeholder="INSERT INTO documents_legal_detail... " />
+            <marker date="1419605300000" expanded="true" signature="30235:30433" placeholder="INSERT INTO documents_legal_master... " />
+            <marker date="1419605300000" expanded="true" signature="32699:32832" placeholder="SELECT porta... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="32977:33509" placeholder="SELECT COUNT... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="35516:35593" placeholder="UPDATE payme... " />
+            <marker date="1419605300000" expanded="true" signature="35681:35753" placeholder="INSERT INTO payment_gateway_details... " />
+            <marker date="1419605300000" expanded="true" signature="35937:36050" placeholder="UPDATE payme... " />
+            <marker date="1419605300000" expanded="true" signature="36174:36270" placeholder="INSERT INTO payment_gateway_details... " />
+            <marker date="1419605300000" expanded="true" signature="36727:36795" placeholder="UPDATE patie... " />
+            <marker date="1419605300000" expanded="true" signature="37058:37170" placeholder="DELETE FROM " />
+            <marker date="1419605300000" expanded="true" signature="37109:37169" placeholder="SELECT id FR... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="37206:37263" placeholder="DELETE FROM " />
+            <marker date="1419605300000" expanded="true" signature="37404:37451" placeholder="SELECT * FRO... audit_details" />
+            <marker date="1419605300000" expanded="true" signature="37609:37644" placeholder="INSERT INTO audit_master... " />
+            <marker date="1419605300000" expanded="true" signature="37669:37732" placeholder="INSERT INTO audit_details... " />
+            <marker date="1419605300000" expanded="true" signature="38328:38388" placeholder="SELECT * FRO... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="38748:38787" placeholder="SELECT pid F... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="39082:39134" placeholder="SELECT IFNUL... patient_data" />
+            <marker date="1419605300000" expanded="true" signature="39324:39686" placeholder="SELECT ad.au... audit_details" />
+            <marker date="1419605300000" expanded="true" signature="39952:40009" placeholder="SELECT allow... patient_data" />
+            <marker date="1419605300000" expanded="true" signature="40078:40402" placeholder="SELECT IF(CO... audit_master" />
+            <marker date="1419605300000" expanded="true" signature="41043:41103" placeholder="SELECT * FRO... patient_access_offsite" />
+            <marker date="1419605300000" expanded="true" signature="41250:41721" placeholder="SELECT ad2.f... audit_master" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrib/util/import_mi2xml.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="143" column="14" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
+          <folding>
+            <marker date="1419605392000" expanded="true" signature="2321:2377" placeholder="SELECT pid F... patient_data" />
+            <marker date="1419605392000" expanded="true" signature="3198:3277" placeholder="SELECT id, n... facility" />
+            <marker date="1419605392000" expanded="true" signature="3643:3685" placeholder="SELECT max(p... patient_data" />
+            <marker date="1419605392000" expanded="true" signature="11596:11628" placeholder="SELECT id FR... lists" />
+            <marker date="1419605392000" expanded="true" signature="12170:12673" placeholder="INSERT INTO lists... " />
+            <marker date="1419605392000" expanded="true" signature="12941:13411" placeholder="update lists... " />
+            <marker date="1419605392000" expanded="true" signature="13881:13946" placeholder="SELECT pid F... aperio_medical_history" />
+            <marker date="1419605392000" expanded="true" signature="13977:14436" placeholder="INSERT INTO aperio_medical_history... " />
+            <marker date="1419605392000" expanded="true" signature="14569:15060" placeholder="UPDATE aperi... " />
+            <marker date="1419605392000" expanded="true" signature="15526:15859" placeholder="INSERT INTO form_encounter... " />
+            <marker date="1419605392000" expanded="true" signature="17422:18531" placeholder="INSERT INTO form_aperio_ros... " />
+            <marker date="1419605392000" expanded="true" signature="19435:20495" placeholder="INSERT INTO form_aperio_pe... " />
+            <marker date="1419605392000" expanded="true" signature="21032:21389" placeholder="INSERT INTO form_aperio_ap... " />
+            <marker date="1419605392000" expanded="true" signature="21883:22145" placeholder="INSERT INTO form_aperio_opd... " />
+            <marker date="1419605392000" expanded="true" signature="23104:24756" placeholder="INSERT INTO form_vitals... " />
+            <marker date="1419605392000" expanded="true" signature="26600:26664" placeholder="SELECT fee F... codes" />
+            <marker date="1419605392000" expanded="true" signature="26898:27672" placeholder="INSERT INTO billing... " />
+            <marker date="1419605392000" expanded="true" signature="27787:27843" placeholder="SELECT pid F... patient_data" />
+            <marker date="1419605392000" expanded="true" signature="28468:28555" placeholder="SELECT id, u... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/new/new_comprehensive_save.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="58" selection-start-line="69" selection-start-column="58" selection-end-line="69" selection-end-column="58" />
+          <folding>
+            <marker date="1419605396000" expanded="true" signature="563:666" placeholder="SELECT count... " />
+            <marker date="1419605396000" expanded="true" signature="1118:1160" placeholder="SELECT MAX(p... patient_data" />
+            <marker date="1419605396000" expanded="true" signature="1517:1637" placeholder="SELECT * FRO... layout_options" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/sqlconf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7122905">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/adodb/adodb.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.047486033">
+          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/adodb/drivers/adodb-mysql.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/sql.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3809524">
+          <caret line="357" column="1" selection-start-line="357" selection-start-column="1" selection-end-line="357" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/patient.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="878" column="5" selection-start-line="878" selection-start-column="5" selection-end-line="878" selection-end-column="5" />
+          <folding>
+            <marker date="1454940610176" expanded="true" signature="2084:2156" placeholder="select ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="2279:2340" placeholder="select disti... " />
+            <marker date="1454940610176" expanded="true" signature="2657:2704" placeholder="select name insurance_companies" />
+            <marker date="1454940610176" expanded="true" signature="2876:2934" placeholder="select name,... insurance_companies" />
+            <marker date="1454940610176" expanded="true" signature="4031:4129" placeholder="select fname... users" />
+            <marker date="1454940610176" expanded="true" signature="4851:4886" placeholder="SELECT * FRO... facility" />
+            <marker date="1454940610176" expanded="true" signature="4971:5065" placeholder="SELECT * FRO... facility" />
+            <marker date="1454940610176" expanded="true" signature="5095:5210" placeholder="SELECT facil... users" />
+            <marker date="1454940610176" expanded="true" signature="6820:6854" placeholder="SELECT * FRO... facility" />
+            <marker date="1454940610176" expanded="true" signature="7370:7432" placeholder="SELECT * FRO... facility" />
+            <marker date="1454940610176" expanded="true" signature="10328:10367" placeholder="select id fr... users" />
+            <marker date="1454940610176" expanded="true" signature="10605:10672" placeholder="select disti... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="11035:11137" placeholder="select ${$gi... history_data" />
+            <marker date="1454940610176" expanded="true" signature="11246:11334" placeholder="select ${$gi... history_data" />
+            <marker date="1454940610176" expanded="true" signature="11434:11522" placeholder="select ${$gi... history_data" />
+            <marker date="1454940610176" expanded="true" signature="11591:11663" placeholder="select ${$gi... history_data" />
+            <marker date="1454940610176" expanded="true" signature="11973:12147" placeholder="select ${$gi... insurance_data" />
+            <marker date="1454940610176" expanded="true" signature="12652:12866" placeholder="select ${$gi... insurance_data" />
+            <marker date="1454940610176" expanded="true" signature="12982:13055" placeholder="select ${$gi... employer_data" />
+            <marker date="1454940610176" expanded="true" signature="13421:13470" placeholder="SELECT count... " />
+            <marker date="1454940610176" expanded="true" signature="15450:15504" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="16732:16786" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="17329:17425" placeholder="SELECT field... layout_options" />
+            <marker date="1454940610176" expanded="true" signature="17743:17797" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="19435:19489" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="20779:20846" placeholder="select ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="22260:22314" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="22906:22960" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="23659:23713" placeholder="SELECT ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="24141:24182" placeholder="select ${$gi... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="26143:26209" placeholder="select id, f... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="26619:26735" placeholder="SELECT optio... list_options" />
+            <marker date="1454940610176" expanded="true" signature="28652:28719" placeholder="select pid f... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="31193:31248" placeholder="INSERT INTO patient_data... " />
+            <marker date="1454940610176" expanded="true" signature="31667:31939" placeholder="INSERT INTO sma.sma_companies... " />
+            <marker date="1454940610176" expanded="true" signature="32073:32121" placeholder="SELECT pid F... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="32375:32411" placeholder="UPDATE patie... " />
+            <marker date="1454940610176" expanded="true" signature="32602:32648" placeholder="SELECT * FRO... patient_data" />
+            <marker date="1454940610176" expanded="true" signature="33132:33358" placeholder="insert into employer_data... " />
+            <marker date="1454940610176" expanded="true" signature="33771:33801" placeholder="INSERT INTO employer_data... " />
+            <marker date="1454940610176" expanded="true" signature="34253:34283" placeholder="INSERT INTO employer_data... " />
+            <marker date="1454940610176" expanded="true" signature="35526:35620" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454940610176" expanded="true" signature="36262:36439" placeholder="SELECT count... " />
+            <marker date="1454940610176" expanded="true" signature="36737:36864" placeholder="DELETE FROM " />
+            <marker date="1454940610176" expanded="true" signature="38480:39833" placeholder="INSERT INTO insurance_data... " />
+            <marker date="1454940610176" expanded="true" signature="40115:40140" placeholder="UPDATE insur... " />
+            <marker date="1454940610176" expanded="true" signature="40379:40429" placeholder="insert into history_data... " />
+            <marker date="1454940610176" expanded="true" signature="40959:41003" placeholder="insert into history_data... " />
+            <marker date="1454940610176" expanded="true" signature="41597:41717" placeholder="SELECT forei... integration_mapping" />
+            <marker date="1454940610176" expanded="true" signature="42424:42509" placeholder="SELECT zone_... geo_zone_reference" />
+            <marker date="1454940610176" expanded="true" signature="42809:42920" placeholder="SELECT count... geo_country_reference" />
+            <marker date="1454940610176" expanded="true" signature="51562:51621" placeholder="SELECT * FRO... geo_country_reference" />
+            <marker date="1454940610176" expanded="true" signature="56498:56590" placeholder="SELECT count... geo_country_reference" />
+            <marker date="1454940610176" expanded="true" signature="56622:56714" placeholder="SELECT count... geo_country_reference" />
+            <marker date="1454940610176" expanded="true" signature="57461:57579" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454940610176" expanded="true" signature="58779:58920" placeholder="SELECT SUM(f... billing" />
+            <marker date="1454940610176" expanded="true" signature="59398:59515" placeholder="SELECT SUM(f... billing" />
+            <marker date="1454940610176" expanded="true" signature="59770:59858" placeholder="SELECT SUM(f... drug_sales" />
+            <marker date="1454940610176" expanded="true" signature="60281:60514" placeholder="SELECT forei... integration_mapping" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/patient_file/pos_checkout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="418" column="34" selection-start-line="418" selection-start-column="34" selection-end-line="418" selection-end-column="34" />
+          <folding>
+            <marker date="1419605416000" expanded="true" signature="4798:4997" placeholder="SELECT forei... integration_mapping" />
+            <marker date="1419605416000" expanded="true" signature="5310:5433" placeholder="SELECT forei... integration_mapping" />
+            <marker date="1419605416000" expanded="true" signature="5833:5974" placeholder="SELECT forei... integration_mapping" />
+            <marker date="1419605416000" expanded="true" signature="11017:11116" placeholder="SELECT * FRO... facility" />
+            <marker date="1419605416000" expanded="true" signature="11461:11565" placeholder="SELECT id, d... " />
+            <marker date="1419605416000" expanded="true" signature="11639:11763" placeholder="SELECT id, d... " />
+            <marker date="1419605416000" expanded="true" signature="12516:12616" placeholder="SELECT * FRO... ar" />
+            <marker date="1419605416000" expanded="true" signature="13348:13412" placeholder="SELECT date " />
+            <marker date="1419605416000" expanded="true" signature="13576:13665" placeholder="SELECT invoi... form_encounter" />
+            <marker date="1419605416000" expanded="true" signature="16372:16577" placeholder="SELECT * FRO... billing" />
+            <marker date="1419605416000" expanded="true" signature="17710:17800" placeholder="SELECT * FRO... invoice" />
+            <marker date="1419605416000" expanded="true" signature="18632:18798" placeholder="SELECT fee, billing" />
+            <marker date="1419605416000" expanded="true" signature="19863:19912" placeholder="select id fr... chart" />
+            <marker date="1419605416000" expanded="true" signature="20122:20232" placeholder="SELECT * FRO... acc_trans" />
+            <marker date="1419605416000" expanded="true" signature="26047:26123" placeholder="SELECT id FR... form_encounter" />
+            <marker date="1419605416000" expanded="true" signature="26309:26389" placeholder="select id fr... ar" />
+            <marker date="1419605416000" expanded="true" signature="26613:26720" placeholder="UPDATE billi... " />
+            <marker date="1419605416000" expanded="true" signature="27617:27713" placeholder="update drug_... " />
+            <marker date="1419605416000" expanded="true" signature="28467:28548" placeholder="UPDATE billi... " />
+            <marker date="1419605416000" expanded="true" signature="28984:29334" placeholder="INSERT INTO ar_activity... " />
+            <marker date="1419605416000" expanded="true" signature="29909:30122" placeholder="SELECT * FRO... billing" />
+            <marker date="1419605416000" expanded="true" signature="30483:30764" placeholder="INSERT INTO ar_session... " />
+            <marker date="1419605416000" expanded="true" signature="30885:31061" placeholder="INSERT INTO ar_activity... " />
+            <marker date="1419605416000" expanded="true" signature="33191:33298" placeholder="SELECT id, u... users" />
+            <marker date="1419605416000" expanded="true" signature="39232:39332" placeholder="SELECT taxra... codes" />
+            <marker date="1419605416000" expanded="true" signature="41276:41379" placeholder="SELECT taxra... drug_templates" />
+            <marker date="1419605416000" expanded="true" signature="42021:42134" placeholder="SELECT provi... form_encounter" />
+            <marker date="1419605416000" expanded="true" signature="42679:42742" placeholder="SELECT * FRO... list_options" />
+            <marker date="1419605416000" expanded="true" signature="47321:47425" placeholder="SELECT COUNT... " />
+            <marker date="1419605416000" expanded="true" signature="47558:47705" placeholder="SELECT COUNT... " />
+            <marker date="1419605416000" expanded="true" signature="47824:47957" placeholder="SELECT COUNT... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/new/new_search_popup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="216" column="38" selection-start-line="216" selection-start-column="38" selection-end-line="216" selection-end-column="38" />
+          <folding>
+            <marker date="1419605396000" expanded="true" signature="5610:5883" placeholder="SELECT field... layout_options" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/patient_file/summary/demographics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.807693">
+          <caret line="1524" column="32" selection-start-line="1524" selection-start-column="32" selection-end-line="1524" selection-end-column="32" />
+          <folding>
+            <element signature="e#6#815#0#PHP" expanded="true" />
+            <marker date="1454982433397" expanded="true" signature="2466:2778" placeholder="select docum... documents" />
+            <marker date="1454982433397" expanded="true" signature="3182:3458" placeholder="SELECT d.id,... documents" />
+            <marker date="1454982433397" expanded="true" signature="5202:5288" placeholder="SELECT count... " />
+            <marker date="1454982433397" expanded="true" signature="7843:7943" placeholder="SELECT id, t... lists" />
+            <marker date="1454982433397" expanded="true" signature="9799:9894" placeholder="select soap_... patient_data" />
+            <marker date="1454982433397" expanded="true" signature="13061:13172" placeholder="SELECT optio... list_options" />
+            <marker date="1454982433397" expanded="true" signature="15396:15639" placeholder="SELECT fe.en... form_encounter" />
+            <marker date="1454982433397" expanded="true" signature="17405:17422" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="17699:17716" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="17916:17933" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="18397:18454" placeholder="SELECT allow... patient_data" />
+            <marker date="1454982433397" expanded="true" signature="18557:18610" placeholder="SELECT pid F... patient_access_onsite" />
+            <marker date="1454982433397" expanded="true" signature="18650:18667" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="19293:19350" placeholder="SELECT allow... patient_data" />
+            <marker date="1454982433397" expanded="true" signature="19453:19507" placeholder="SELECT pid F... patient_access_offsite" />
+            <marker date="1454982433397" expanded="true" signature="19547:19564" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="20198:20215" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="20539:20582" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="22112:22453" placeholder="SELECT msh.*... modules_hooks_settings" />
+            <marker date="1454982433397" expanded="true" signature="27230:27322" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454982433397" expanded="true" signature="28245:28341" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454982433397" expanded="true" signature="29416:29512" placeholder="SELECT * FRO... insurance_data" />
+            <marker date="1454982433397" expanded="true" signature="39002:39069" placeholder="SELECT * FRO... amendments" />
+            <marker date="1454982433397" expanded="true" signature="41323:41360" placeholder="SELECT * FRO... form_vitals" />
+            <marker date="1454982433397" expanded="true" signature="42061:42179" placeholder="SELECT optio... list_options" />
+            <marker date="1454982433397" expanded="true" signature="42710:42775" placeholder="SELECT * FRO... forms" />
+            <marker date="1454982433397" expanded="true" signature="45055:45111" placeholder="SELECT id FR... categories" />
+            <marker date="1454982433397" expanded="true" signature="45234:45280" placeholder="SELECT id, n... categories" />
+            <marker date="1454982433397" expanded="true" signature="48780:48853" placeholder="UPDATE patie... " />
+            <marker date="1454982433397" expanded="true" signature="49004:49059" placeholder="UPDATE lists... " />
+            <marker date="1454982433397" expanded="true" signature="49493:49510" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="49550:49622" placeholder="SELECT * FRO... list_options" />
+            <marker date="1454982433397" expanded="true" signature="52166:52182" placeholder="..." />
+            <marker date="1454982433397" expanded="true" signature="57794:57892" placeholder="SELECT count... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/main/calendar/add_edit_event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13709678">
+          <caret line="93" column="37" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
+          <folding>
+            <marker date="1419605398000" expanded="true" signature="3258:3321" placeholder="SELECT MAX(p... " />
+            <marker date="1419605398000" expanded="true" signature="4860:4920" placeholder="UPDATE patie... " />
+            <marker date="1419605398000" expanded="true" signature="5802:6072" placeholder="SELECT pc_fa... openemr_postcalendar_events" />
+            <marker date="1419605398000" expanded="true" signature="6220:6281" placeholder="SELECT facil... users" />
+            <marker date="1419605398000" expanded="true" signature="6545:6621" placeholder="UPDATE opene... " />
+            <marker date="1419605398000" expanded="true" signature="6701:6772" placeholder="UPDATE opene... " />
+            <marker date="1419605398000" expanded="true" signature="11076:11144" placeholder="SELECT pc_mu... openemr_postcalendar_events" />
+            <marker date="1419605398000" expanded="true" signature="11470:11536" placeholder="SELECT pc_ai... openemr_postcalendar_events" />
+            <marker date="1419605398000" expanded="true" signature="12218:12335" placeholder="SELECT pc_re... openemr_postcalendar_events" />
+            <marker date="1419605398000" expanded="true" signature="12834:12984" placeholder="UPDATE opene... " />
+            <marker date="1419605398000" expanded="true" signature="13210:13273" placeholder="SELECT MAX(p... " />
+            <marker date="1419605398000" expanded="true" signature="14894:15041" placeholder="UPDATE opene... " />
+            <marker date="1419605398000" expanded="true" signature="15256:15319" placeholder="SELECT MAX(p... " />
+            <marker date="1419605398000" expanded="true" signature="16901:16973" placeholder="DELETE FROM " />
+            <marker date="1419605398000" expanded="true" signature="18734:20590" placeholder="UPDATE opene... " />
+            <marker date="1419605398000" expanded="true" signature="21151:21221" placeholder="SELECT pc_re... openemr_postcalendar_events" />
+            <marker date="1419605398000" expanded="true" signature="21671:21795" placeholder="UPDATE opene... " />
+            <marker date="1419605398000" expanded="true" signature="22776:22897" placeholder="UPDATE opene... " />
+            <marker date="1419605398000" expanded="true" signature="23959:25736" placeholder="UPDATE opene... " />
+            <marker date="1419605398000" expanded="true" signature="26703:26771" placeholder="SELECT pc_mu... openemr_postcalendar_events" />
+            <marker date="1419605398000" expanded="true" signature="26939:27005" placeholder="SELECT pc_ai... openemr_postcalendar_events" />
+            <marker date="1419605398000" expanded="true" signature="27691:27808" placeholder="SELECT pc_re... openemr_postcalendar_events" />
+            <marker date="1419605398000" expanded="true" signature="28307:28429" placeholder="UPDATE opene... " />
+            <marker date="1419605398000" expanded="true" signature="28907:29026" placeholder="UPDATE opene... " />
+            <marker date="1419605398000" expanded="true" signature="29209:29255" placeholder="DELETE FROM " />
+            <marker date="1419605398000" expanded="true" signature="29673:29743" placeholder="SELECT pc_re... openemr_postcalendar_events" />
+            <marker date="1419605398000" expanded="true" signature="30121:30245" placeholder="UPDATE opene... " />
+            <marker date="1419605398000" expanded="true" signature="30558:30679" placeholder="UPDATE opene... " />
+            <marker date="1419605398000" expanded="true" signature="30836:30892" placeholder="DELETE FROM " />
+            <marker date="1419605398000" expanded="true" signature="34590:34697" placeholder="SELECT f.id facility" />
+            <marker date="1419605398000" expanded="true" signature="34855:35019" placeholder="SELECT u.fac... users" />
+            <marker date="1419605398000" expanded="true" signature="35762:35872" placeholder="SELECT id, u... users" />
+            <marker date="1419605398000" expanded="true" signature="45573:45807" placeholder="..." />
+            <marker date="1419605398000" expanded="true" signature="50772:50829" placeholder="SELECT id, n... facility" />
+            <marker date="1419605398000" expanded="true" signature="53270:53351" placeholder="SELECT pc_ai... openemr_postcalendar_events" />
+            <marker date="1419605398000" expanded="true" signature="53548:53624" placeholder="SELECT pc_ai... openemr_postcalendar_events" />
+            <marker date="1419605398000" expanded="true" signature="53796:53806" placeholder="..." />
+            <marker date="1419605398000" expanded="true" signature="54472:54535" placeholder="SELECT pc_ai... openemr_postcalendar_events" />
+            <marker date="1419605398000" expanded="true" signature="56440:56477" placeholder="select id fr... users" />
+            <marker date="1419605398000" expanded="true" signature="56739:56749" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
