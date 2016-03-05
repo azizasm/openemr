@@ -86,6 +86,8 @@ div.section {
 
 <style type="text/css">@import url(../../library/dynarch_calendar.css);</style>
 
+    <script src="https://cdn.socket.io/socket.io-1.2.0.js"></script>
+
 <script type="text/javascript" src="../../library/dialog.js"></script>
 <script type="text/javascript" src="../../library/textformat.js"></script>
 <script type="text/javascript" src="../../library/dynarch_calendar.js"></script>
@@ -94,6 +96,38 @@ div.section {
 <script type="text/javascript" src="<?php echo $GLOBALS['webroot']; ?>/library/js/jquery.js"></script>
 
 <SCRIPT LANGUAGE="JavaScript"><!--
+
+    var socket = io.connect('http://localhost:8090');
+
+    // Add a connect listener
+    socket.on('connect', function(socket) {
+        console.log('Connected!');
+    });
+    socket.on('CH01', function (data) {
+        console.log(data);
+       // var obj = jQuery.parseJSON( data );
+
+
+
+        if (data.gender.trim() == "Male"){
+            $('select[name="form_title"]'). val( 'Mr.');
+        }else if (data.gender.trim() == "Female"){
+            $('select[name="form_title"]'). val( 'Mrs.');
+        }
+        $('input[name="form_fname"]').val( data.name.trim());
+        $('input[name="form_DOB"]').val( data.dateOfBirth.trim());
+        $('input[name="form_ss"]').val( data.icNo.trim());
+        //if ( data.gender.trim() === "")
+        $('select[name="form_sex"]'). val( data.gender.trim());
+        $('input[name="form_street"]').val( data.address1.trim() + " "+ data.address2.trim() + " "+ data.address3.trim() );
+        $('input[name="form_city"]').val( data.city.trim());
+        $('input[name="form_postal_code"]').val( data.postalCode.trim());
+
+
+       // addMessage(data.status);
+        //  socket.emit('my other event', { my: 'data' });
+    });
+
 //Visolve - sync the radio buttons - Start
 if((top.window.parent) && (parent.window)){
         var wname = top.window.parent.left_nav;
